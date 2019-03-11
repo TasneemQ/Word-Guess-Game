@@ -10,6 +10,7 @@
     background-position: center; 
     background-size: 1200px 800px;
     color: rgb(15, 31, 102);
+    font-family: 'Anton', sans-serif;
   }
   
   header .banner {
@@ -20,13 +21,14 @@
   }
   
   section .start-msg {
-    font-style: italic;
+    font-style: bold;
     font-size: 1.5em;
     color: brown;
   }
   
   section .game-data {
     font-size: 1.2em;
+    font-family: 'Anton', sans-serif;
   }
   
   #question {
